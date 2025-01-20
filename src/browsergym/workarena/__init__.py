@@ -22,6 +22,7 @@ from .tasks.dashboard import __TASKS__ as DASHBOARD_TASKS
 from .tasks.form import __TASKS__ as FORM_TASKS
 from .tasks.knowledge import __TASKS__ as KB_TASKS
 from .tasks.list import __TASKS__ as LIST_TASKS
+from .tasks.list import LIST_TASKS_SORT
 from .tasks.navigation import __TASKS__ as NAVIGATION_TASKS
 from .tasks.service_catalog import __TASKS__ as SERVICE_CATALOG_TASKS
 from .tasks.compositional.base import CompositionalTask

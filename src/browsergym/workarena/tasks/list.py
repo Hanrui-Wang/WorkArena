@@ -1425,3 +1425,15 @@ __TASKS__ = (
         and not issubclass(value, CompositionalBuildingBlockTask)
     ]
 )
+
+
+
+# Register all tasks
+LIST_TASKS_SORT = (
+    [
+        value
+        for name, value in locals().items()
+        if re.compile(r"^Sort\w+ListTask$").match(name)
+        and not issubclass(value, CompositionalBuildingBlockTask)
+    ]
+)
