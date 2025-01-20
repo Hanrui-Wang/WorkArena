@@ -1,0 +1,974 @@
+[
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Calendar integration (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "calendar_integration"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Calendar integration (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "calendar_integration"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Country code (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "country"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Country code (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "country"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Last login time (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "last_login_time"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Last login time (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "last_login_time"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Source (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "source"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Source (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "source"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Updated (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Updated (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Building (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "building"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Building (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "building"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Web service access only (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "web_service_access_only"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Web service access only (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "web_service_access_only"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Notification (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "notification"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Notification (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "notification"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Enable Multifactor Authentication (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "enable_multifactor_authn"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Enable Multifactor Authentication (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "enable_multifactor_authn"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Updated by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Updated by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Created (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Created (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Domain (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Domain (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - State / Province (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "state"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - State / Province (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "state"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - VIP (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "vip"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - VIP (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "vip"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Created by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Created by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Zip / Postal code (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "zip"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Zip / Postal code (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "zip"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Home phone (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "home_phone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Home phone (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "home_phone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Time format (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "time_format"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Time format (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "time_format"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Last login (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "last_login"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Last login (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "last_login"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Default perspective (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "default_perspective"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Default perspective (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "default_perspective"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Active (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "active"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Active (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "active"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Domain Path (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Domain Path (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Cost center (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "cost_center"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Cost center (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "cost_center"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Business phone (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "phone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Business phone (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "phone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Name (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Name (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Employee number (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "employee_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Employee number (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "employee_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Gender (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "gender"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Gender (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "gender"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - City (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "city"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - City (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "city"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Failed login attempts (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "failed_attempts"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Failed login attempts (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "failed_attempts"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - User ID (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "user_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - User ID (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "user_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Title (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "title"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Title (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "title"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Sys ID (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Sys ID (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Federated ID (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "federated_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Federated ID (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "federated_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Internal Integration User (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "internal_integration_user"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Internal Integration User (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "internal_integration_user"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - LDAP server (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "ldap_server"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - LDAP server (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "ldap_server"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Mobile phone (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "mobile_phone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Mobile phone (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "mobile_phone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Street (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "street"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Street (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "street"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Company (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Company (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Department (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "department"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Department (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "department"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - First name (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "first_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - First name (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "first_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Email (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "email"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Email (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "email"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Prefix (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "introduction"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Prefix (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "introduction"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Language (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "preferred_language"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Language (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "preferred_language"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Manager (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "manager"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Manager (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "manager"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Locked out (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "locked_out"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Locked out (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "locked_out"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Updates (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Updates (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Last name (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "last_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Last name (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "last_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Photo (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "photo"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Photo (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "photo"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Avatar (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "avatar"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Avatar (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "avatar"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Middle name (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "middle_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Middle name (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "middle_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Time zone (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "time_zone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Time zone (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "time_zone"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Schedule (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "schedule"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Schedule (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "schedule"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Date format (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "date_format"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Date format (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "date_format"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Location (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"users\" list by the following fields:\n - Location (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "location"
+        ]
+    }
+]
