@@ -20,6 +20,62 @@ SORT_TASKS = [
     task for task in __TASKS__ if re.compile(r"^Sort\w+ListTask$").match(task.__name__)
 ]
 
+# <class 'browsergym.workarena.tasks.list.SortAssetListTask'> ['work_notes', 'sys_id', 'sys_tags']
+
+# <class 'browsergym.workarena.tasks.list.SortHardwareListTask'> ['work_notes', 'sys_id', 'sys_tags']
+
+# <class 'browsergym.workarena.tasks.list.SortChangeRequestListTask'> ['watch_list', 'approval_history', 'work_notes_list', 'group_list', 'additional_assignee_list', 'comments_and_work_notes', 'on_hold_task', 'work_notes', 'sys_id', 'comments', 'sys_tags']
+
+# <class 'browsergym.workarena.tasks.list.SortIncidentListTask'> ['watch_list', 'approval_history', 'work_notes_list', 'group_list', 'work_notes', 'additional_assignee_list', 'sys_id', 'comments', 'comments_and_work_notes', 'sys_tags']
+
+# <class 'browsergym.workarena.tasks.list.SortUserListTask'> ['sys_id']
+
+# <class 'browsergym.workarena.tasks.list.SortServiceCatalogItemListTask'> ['sys_id', 'sys_tags']
+
+
+LISTS_LOCAL = {
+    "alm_asset": {
+        "url": "/now/nav/ui/classic/params/target/alm_asset_list.do",
+        "forbidden_fields": ["sys_class_name", 'work_notes', 'sys_id', 'sys_tags'],
+    },
+    "alm_hardware": {
+        "url": "/now/nav/ui/classic/params/target/alm_hardware_list.do",
+        "forbidden_fields": [],
+    },
+    "change_request": {
+        "url": "/now/nav/ui/classic/params/target/change_request_list.do",
+        "forbidden_fields": ['watch_list', 'approval_history', 'work_notes_list', 'group_list', 'additional_assignee_list', 'comments_and_work_notes', 'on_hold_task', 'work_notes', 'sys_id', 'comments', 'sys_tags'],
+    },
+    "incident": {
+        "url": "/now/nav/ui/classic/params/target/incident_list.do",
+        "forbidden_fields": ['watch_list', 'approval_history', 'work_notes_list', 'group_list', 'work_notes', 'additional_assignee_list', 'sys_id', 'comments', 'comments_and_work_notes', 'sys_tags'],
+    },
+    "sys_user": {
+        "url": "/now/nav/ui/classic/params/target/sys_user_list.do",
+        "forbidden_fields": [
+            "sys_class_name",
+            "roles",
+            "sys_tags",
+            "user_password",
+            "password_needs_reset",
+            "sys_id",
+        ],
+    },
+    "sc_cat_item": {
+        "url": "/now/nav/ui/classic/params/target/sc_cat_item_list.do",
+        "forbidden_fields": ["roles", "sc_catalogs", 'sys_id', 'sys_tags'],
+    },
+}
+
+TASK_NAME_MAPPING = {
+    "SortAssetListTask": "alm_asset",
+    "SortHardwareListTask": "alm_hardware",
+    "SortChangeRequestListTask": "change_request",
+    "SortIncidentListTask": "incident",
+    "SortUserListTask": "sys_user",
+    "SortServiceCatalogItemListTask": "sc_cat_item",
+}
+
 def generate_all_configs_fixed_n_field(task, page: Page, n_fields_to_sort: int):
     
     list_info = task._extract_list_info(page)
@@ -65,6 +121,8 @@ def generate_task_configs(task_class, n_configs, min_complexity=1, max_complexit
     seed = 1000
 
     task = task_class(seed=seed)
+    task.forbidden_fields = LISTS_LOCAL[TASK_NAME_MAPPING[name]]["forbidden_fields"]
+
     task.min_sort_len = min_complexity
     task.max_sort_len = max_complexity
     with sync_playwright() as p:
@@ -88,10 +146,10 @@ def generate_task_configs(task_class, n_configs, min_complexity=1, max_complexit
 
 
 if __name__ == "__main__":
-    # pdb.set_trace()
+    pdb.set_trace()
     random.seed(42)
 
-    for task in SORT_TASKS: # Only generate configs for the first task
-        generate_task_configs(task, n_configs=1000)
+    for task in SORT_TASKS:
+        generate_task_configs(task, n_configs=100)
 
 
