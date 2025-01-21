@@ -69,10 +69,10 @@ def detect_task_forbidden_fields(task_class):
     
         env = BrowserEnv(task_entrypoint=task_class, task_kwargs = {'fixed_config': fixed_config}, headless=True, slow_mo=1000, timeout=10000)
 
-        env.reset()
-        env.context.set_default_timeout(10000)
 
         try:
+            env.reset()
+            env.context.set_default_timeout(10000)
             env.task.cheat(env.page, env.chat.messages)
         except Exception as e:
             print(f"Error cheating on task {task_name} with seed {seed}: {str(e)}")
