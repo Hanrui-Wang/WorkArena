@@ -195,3 +195,6 @@ pyllmd_tune/
 # don't ignore the miniwob_tasks_all.csv file
 !miniwob_tasks_all.csv
 .vscode-upload.json
+
+trace_profiling/
+
