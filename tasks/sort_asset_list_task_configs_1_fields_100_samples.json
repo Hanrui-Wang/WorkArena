@@ -1,0 +1,902 @@
+[
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Model (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "model"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Residual date (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "residual_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Supported by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "supported_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Model component (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "model_component_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Asset function (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "asset_function"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Invoice number (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "invoice_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Disposal reason (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "disposal_reason"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Created (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Old status (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "old_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Residual value (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "residual"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Residual date (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "residual_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Created (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Domain Path (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Order received (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "delivery_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Salvage value (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "salvage_value"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Supported by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "supported_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Domain (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Vendor (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "vendor"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Stockroom (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "stockroom"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Resale price (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "resale_price"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Cost center (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "cost_center"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Display name (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "display_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Salvage value (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "salvage_value"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Location (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Life Cycle Stage (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "life_cycle_stage"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Location (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Depreciation (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "depreciation"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Comments (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "comments"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Parent (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "parent"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Justification (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "justification"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Quantity (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "quantity"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Model category (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "model_category"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Updates (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Domain Path (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Depreciated amount (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "depreciated_amount"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Active transfer order (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "active_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Due in (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "due_in"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Disposal reason (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "disposal_reason"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Cost (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "cost"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Depreciation effective date (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "depreciation_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Request line (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "request_line"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Updated (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Owned by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "owned_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Request line (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "request_line"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Substate (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "substatus"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Substate (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "substatus"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Purchased (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "purchase_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - GL account (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "gl_account"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Product instance identifier (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "product_instance_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Order received (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "delivery_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Cost center (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "cost_center"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Resold value (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "resold_value"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Department (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "department"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Updated (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Lease contract (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "lease_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Created by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - PO number (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "po_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Managed by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "managed_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Pre-allocated (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "pre_allocated"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Assigned (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "assigned"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Domain (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Reserved for (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "reserved_for"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Company (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Model (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "model"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Life Cycle Stage Status (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "life_cycle_stage_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Resale price (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "resale_price"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Managed by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "managed_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Department (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "department"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Old status (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "old_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Depreciation effective date (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "depreciation_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Company (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Updates (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Comments (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "comments"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Pre-allocated (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "pre_allocated"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Quantity (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "quantity"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Due (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "due"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Invoice number (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "invoice_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Residual value (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "residual"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Model category (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "model_category"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Beneficiary (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "beneficiary"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Life Cycle Stage Status (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "life_cycle_stage_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Vendor (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "vendor"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Purchased (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "purchase_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Active transfer order (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "active_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - PO number (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "po_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Updated by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Asset tag (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "asset_tag"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Justification (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "justification"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Assigned (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "assigned"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Resold value (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "resold_value"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Depreciation (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "depreciation"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Configuration Item (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "ci"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Owned by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "owned_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Skip sync (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "skip_sync"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Display name (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "display_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Skip sync (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "skip_sync"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Checked out (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "checked_out"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Old substatus (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "old_substatus"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Asset function (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "asset_function"
+        ]
+    },
+    {
+        "goal": "Sort the \"assets\" list by the following fields:\n - Product instance identifier (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "product_instance_id"
+        ]
+    }
+]

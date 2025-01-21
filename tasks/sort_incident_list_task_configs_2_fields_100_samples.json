@@ -1,0 +1,1102 @@
+[
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Transfer reason (ascending)\n - Urgency (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "route_reason",
+            "urgency"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - User input (descending)\n - Approval (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "user_input",
+            "approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Created by (ascending)\n - Caller (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_by",
+            "caller_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - On hold reason (descending)\n - Resolved by (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "hold_reason",
+            "resolved_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Last reopened by (ascending)\n - Upon approval (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "reopened_by",
+            "upon_approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Configuration item (descending)\n - Activity due (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "cmdb_ci",
+            "activity_due"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Change Request (descending)\n - Short description (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "rfc",
+            "short_description"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Parent (descending)\n - Child Incidents (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "parent",
+            "child_incidents"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Correlation display (descending)\n - Assignment group (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "correlation_display",
+            "assignment_group"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Expected start (ascending)\n - Incident state (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "expected_start",
+            "incident_state"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Service (ascending)\n - Domain Path (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "business_service",
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Delivery plan (descending)\n - Assignment group (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "delivery_plan",
+            "assignment_group"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Caused by Change (ascending)\n - Incident state (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "caused_by",
+            "incident_state"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolved by (ascending)\n - Created (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "resolved_by",
+            "sys_created_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Change Request (descending)\n - Follow up (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "rfc",
+            "follow_up"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Order (descending)\n - Approval (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "order",
+            "approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Subcategory (ascending)\n - Description (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "subcategory",
+            "description"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Follow up (ascending)\n - Activity due (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "follow_up",
+            "activity_due"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Priority (descending)\n - Escalation (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "priority",
+            "escalation"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Subcategory (descending)\n - Last reopened by (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "subcategory",
+            "reopened_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Impact (descending)\n - Notify (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "impact",
+            "notify"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Parent Incident (descending)\n - Last reopened by (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "parent_incident",
+            "reopened_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Caused by Change (ascending)\n - Origin (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "caused_by",
+            "origin_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolved by (descending)\n - Correlation ID (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "resolved_by",
+            "correlation_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Created (descending)\n - Urgency (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_on",
+            "urgency"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Opened (descending)\n - Resolution code (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "opened_at",
+            "close_code"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - On hold reason (descending)\n - Approval (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "hold_reason",
+            "approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - State (descending)\n - Order (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "state",
+            "order"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Impact (descending)\n - Resolved (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "impact",
+            "resolved_at"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Probable cause (ascending)\n - Notify (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "cause",
+            "notify"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Business impact (ascending)\n - Approval (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "business_impact",
+            "approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - On hold reason (ascending)\n - Time worked (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "hold_reason",
+            "time_worked"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Made SLA (ascending)\n - Last reopened at (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "made_sla",
+            "reopened_time"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Universal Request (descending)\n - Short description (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "universal_request",
+            "short_description"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolved (descending)\n - Due date (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "resolved_at",
+            "due_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Severity (descending)\n - Correlation ID (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "severity",
+            "correlation_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - User input (ascending)\n - Knowledge (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "user_input",
+            "knowledge"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Description (ascending)\n - Due date (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "description",
+            "due_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Effective number (descending)\n - Actual end (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "task_effective_number",
+            "work_end"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Transfer reason (descending)\n - Assignment group (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "route_reason",
+            "assignment_group"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Opened (ascending)\n - Description (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "opened_at",
+            "description"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Parent (ascending)\n - Service offering (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "parent",
+            "service_offering"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Opened (ascending)\n - Task type (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "opened_at",
+            "sys_class_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Delivery plan (ascending)\n - Service (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "delivery_plan",
+            "business_service"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Updated (descending)\n - Reassignment count (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_on",
+            "reassignment_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Opened by (ascending)\n - Active (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "opened_by",
+            "active"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Child Incidents (descending)\n - Updates (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "child_incidents",
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Service (ascending)\n - Business impact (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "business_service",
+            "business_impact"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - On hold reason (ascending)\n - Transfer reason (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "hold_reason",
+            "route_reason"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Short description (ascending)\n - Location (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "short_description",
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Effective number (descending)\n - Knowledge (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "task_effective_number",
+            "knowledge"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Priority (ascending)\n - Escalation (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "priority",
+            "escalation"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Origin (ascending)\n - Due date (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "origin_id",
+            "due_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - State (ascending)\n - Business duration (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "state",
+            "business_duration"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Domain Path (ascending)\n - Assigned to (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain_path",
+            "assigned_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Description (ascending)\n - Notify (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "description",
+            "notify"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Domain (descending)\n - Contract (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain",
+            "contract"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Delivery plan (descending)\n - Task type (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "delivery_plan",
+            "sys_class_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Business impact (ascending)\n - Last reopened by (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "business_impact",
+            "reopened_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Service (ascending)\n - SLA due (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "business_service",
+            "sla_due"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - User input (ascending)\n - Actual end (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "user_input",
+            "work_end"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Active (descending)\n - Channel (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "active",
+            "contact_type"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Opened (descending)\n - Origin (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "opened_at",
+            "origin_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Origin table (ascending)\n - Duration (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "origin_table",
+            "calendar_duration"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Closed (ascending)\n - Universal Request (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "closed_at",
+            "universal_request"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolved by (descending)\n - Impact (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "resolved_by",
+            "impact"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Last reopened at (ascending)\n - Escalation (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "reopened_time",
+            "escalation"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Domain Path (descending)\n - Company (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain_path",
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Task type (descending)\n - Assigned to (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_class_name",
+            "assigned_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Origin table (ascending)\n - Resolve time (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "origin_table",
+            "calendar_stc"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Upon reject (descending)\n - Assignment group (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "upon_reject",
+            "assignment_group"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Domain (descending)\n - Actual end (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain",
+            "work_end"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Last reopened by (descending)\n - Upon approval (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "reopened_by",
+            "upon_approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Reassignment count (descending)\n - Due date (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "reassignment_count",
+            "due_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Delivery plan (descending)\n - Notify (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "delivery_plan",
+            "notify"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Knowledge (ascending)\n - Short description (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "knowledge",
+            "short_description"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Company (ascending)\n - Upon approval (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "company",
+            "upon_approval"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Domain Path (descending)\n - Urgency (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain_path",
+            "urgency"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Created (ascending)\n - Problem (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_on",
+            "problem_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Parent (descending)\n - Updated by (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "parent",
+            "sys_updated_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Domain (descending)\n - Incident state (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain",
+            "incident_state"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolution notes (descending)\n - Closed by (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "close_notes",
+            "closed_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - State (descending)\n - Last reopened by (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "state",
+            "reopened_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Caller (ascending)\n - Reassignment count (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "caller_id",
+            "reassignment_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Caller (ascending)\n - Last reopened at (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "caller_id",
+            "reopened_time"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Correlation display (ascending)\n - Closed by (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "correlation_display",
+            "closed_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Priority (descending)\n - Approval set (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "priority",
+            "approval_set"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Origin table (descending)\n - Assigned to (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "origin_table",
+            "assigned_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Impact (ascending)\n - Updates (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "impact",
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Expected start (ascending)\n - Actual start (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "expected_start",
+            "work_start"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Business impact (descending)\n - Assigned to (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "business_impact",
+            "assigned_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Knowledge (descending)\n - Urgency (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "knowledge",
+            "urgency"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Created by (descending)\n - Updates (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_by",
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Opened (descending)\n - Notify (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "opened_at",
+            "notify"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Parent Incident (descending)\n - Updates (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "parent_incident",
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Expected start (descending)\n - Company (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "expected_start",
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolve time (ascending)\n - Reopen count (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "calendar_stc",
+            "reopen_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Active (ascending)\n - Service offering (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "active",
+            "service_offering"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Created by (ascending)\n - Change Request (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_by",
+            "rfc"
+        ]
+    },
+    {
+        "goal": "Sort the \"incidents\" list by the following fields:\n - Resolved by (descending)\n - Created by (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "resolved_by",
+            "sys_created_by"
+        ]
+    }
+]

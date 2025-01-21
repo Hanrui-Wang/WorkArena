@@ -1,0 +1,1302 @@
+[
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (ascending)\n - Classic Mobile Picture (ascending)\n - Ordered item link (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "mobile_picture",
+            "ordered_item_link"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Expand help for all questions (descending)\n - Ignore price (ascending)\n - Hide Attachment (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "show_variable_help_on_load",
+            "ignore_price",
+            "no_attachment_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Active (descending)\n - Cart (ascending)\n - Picture (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "active",
+            "custom_cart",
+            "picture"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No quantity (ascending)\n - Description (descending)\n - Hide Delivery time (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_quantity",
+            "description",
+            "no_delivery_time_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Created by (ascending)\n - Checked out (ascending)\n - Ordered item link (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_by",
+            "checked_out",
+            "ordered_item_link"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Hide 'Add to Cart' (ascending)\n - Availability (ascending)\n - Request method (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_cart_v2",
+            "availability",
+            "request_method"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Hide 'Add to Wish List' (descending)\n - Hide Quantity (descending)\n - Created from item design (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_wishlist_v2",
+            "no_quantity_v2",
+            "sc_ic_item_staging"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (descending)\n - Update name (descending)\n - Fulfillment automation level (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "sys_update_name",
+            "fulfillment_automation_level"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No quantity (ascending)\n - List Price (descending)\n - Created from item design (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_quantity",
+            "list_price",
+            "sc_ic_item_staging"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Cart (ascending)\n - Mandatory Attachment (ascending)\n - Cost (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "custom_cart",
+            "mandatory_attachment",
+            "cost"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Updated by (descending)\n - Created (descending)\n - Application (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_by",
+            "sys_created_on",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Short description (ascending)\n - Make the item non-conversational in VA (descending)\n - Hide Quantity (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "short_description",
+            "make_item_non_conversational",
+            "no_quantity_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Use cart layout (descending)\n - Template (descending)\n - Hide Quantity (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "use_sc_layout",
+            "template",
+            "no_quantity_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order (descending)\n - Visible on Bundles (ascending)\n - Category (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_order",
+            "visible_bundle",
+            "category"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No proceed checkout (descending)\n - Fulfillment automation level (ascending)\n - Ordered item link (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_proceed_checkout",
+            "fulfillment_automation_level",
+            "ordered_item_link"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Display name (ascending)\n - Update name (descending)\n - Template (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_name",
+            "sys_update_name",
+            "template"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Workflow (descending)\n - Protection policy (ascending)\n - Vendor (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "workflow",
+            "sys_policy",
+            "vendor"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Availability (descending)\n - Visible on Bundles (descending)\n - Display price property (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "availability",
+            "visible_bundle",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Use cart layout (descending)\n - Recurring price frequency (descending)\n - Preview link (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "use_sc_layout",
+            "recurring_frequency",
+            "preview"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Expand help for all questions (descending)\n - Execution Plan (ascending)\n - Vendor (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "show_variable_help_on_load",
+            "delivery_plan",
+            "vendor"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Active (ascending)\n - Name (ascending)\n - Request method (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "active",
+            "name",
+            "request_method"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Order (descending)\n - Image (descending)\n - Meta (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "order",
+            "image",
+            "meta"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Start closed (descending)\n - Visible on Bundles (ascending)\n - Picture (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "start_closed",
+            "visible_bundle",
+            "picture"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (descending)\n - No proceed checkout (descending)\n - Icon (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "no_proceed_checkout",
+            "icon"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Checked out (descending)\n - Hide price (classic mobile listings) (ascending)\n - Updates (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "checked_out",
+            "mobile_hide_price",
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No quantity (descending)\n - Ignore price (ascending)\n - Description (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_quantity",
+            "ignore_price",
+            "description"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order now (descending)\n - Delivery time (ascending)\n - Category (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_order_now",
+            "delivery_time",
+            "category"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order now (ascending)\n - Fulfillment group (descending)\n - Delivery plan script (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_order_now",
+            "group",
+            "delivery_plan_script"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Model (descending)\n - Icon (descending)\n - Visible on Bundles (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "model",
+            "icon",
+            "visible_bundle"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Template (descending)\n - Request method (descending)\n - Hide Delivery time (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "template",
+            "request_method",
+            "no_delivery_time_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Updated (ascending)\n - Workflow (descending)\n - Cart (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_on",
+            "workflow",
+            "custom_cart"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Expand help for all questions (ascending)\n - Hide price (classic mobile listings) (ascending)\n - List Price (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "show_variable_help_on_load",
+            "mobile_hide_price",
+            "list_price"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Delivery time (ascending)\n - Start closed (ascending)\n - Billable (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "delivery_time",
+            "start_closed",
+            "billable"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Created (descending)\n - Hide Delivery time (descending)\n - Cost (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_on",
+            "no_delivery_time_v2",
+            "cost"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Fulfillment automation level (descending)\n - Visible on Bundles (ascending)\n - Hide Quantity (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "fulfillment_automation_level",
+            "visible_bundle",
+            "no_quantity_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Description (descending)\n - Owner (ascending)\n - Display price property (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "description",
+            "owner",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Hide price (classic mobile listings) (descending)\n - Visible on Guides (descending)\n - Taxonomy topic (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "mobile_hide_price",
+            "visible_guide",
+            "taxonomy_topic"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Update name (ascending)\n - Associated template (ascending)\n - Display price property (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_update_name",
+            "sc_template",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Model (descending)\n - Visible on Bundles (ascending)\n - Package (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "model",
+            "visible_bundle",
+            "sys_package"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Fulfillment group (descending)\n - Protection policy (descending)\n - Icon (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "group",
+            "sys_policy",
+            "icon"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Protection policy (ascending)\n - Request method (descending)\n - Hide 'Save as Draft' (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_policy",
+            "request_method",
+            "no_save_as_draft"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Version (ascending)\n - Icon (ascending)\n - Description (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "version",
+            "icon",
+            "description"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Display name (descending)\n - Created by (descending)\n - Version (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_name",
+            "sys_created_by",
+            "version"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Workflow (ascending)\n - Cart (descending)\n - Name (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "workflow",
+            "custom_cart",
+            "name"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Cart (descending)\n - Application (ascending)\n - Package (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "custom_cart",
+            "sys_scope",
+            "sys_package"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Preview link (descending)\n - Updates (ascending)\n - Hide 'Save as Draft' (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "preview",
+            "sys_mod_count",
+            "no_save_as_draft"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Image (ascending)\n - Hide 'Add to Cart' (ascending)\n - Hide 'Add to Wish List' (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "image",
+            "no_cart_v2",
+            "no_wishlist_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (descending)\n - Created (ascending)\n - No cart (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "sys_created_on",
+            "no_cart"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (ascending)\n - Mandatory Attachment (descending)\n - Picture (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "mandatory_attachment",
+            "picture"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Visible elsewhere (descending)\n - Ordered item link (ascending)\n - Created from item design (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "visible_standalone",
+            "ordered_item_link",
+            "sc_ic_item_staging"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Visible on Guides (descending)\n - Class (descending)\n - Make the item non-conversational in VA (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "visible_guide",
+            "sys_class_name",
+            "make_item_non_conversational"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Update name (descending)\n - Hide Quantity (ascending)\n - Location (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_update_name",
+            "no_quantity_v2",
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No search (descending)\n - Template (ascending)\n - Description (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_search",
+            "template",
+            "description"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Image (ascending)\n - Cart (ascending)\n - Picture (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "image",
+            "custom_cart",
+            "picture"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No quantity (ascending)\n - Hide Delivery time (ascending)\n - Billable (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_quantity",
+            "no_delivery_time_v2",
+            "billable"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Updated by (ascending)\n - Active (ascending)\n - No order (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_by",
+            "active",
+            "no_order"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Order (ascending)\n - Cost (descending)\n - Created from item design (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "order",
+            "cost",
+            "sc_ic_item_staging"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - State (ascending)\n - Availability (descending)\n - Application (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "state",
+            "availability",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Workflow (ascending)\n - Checked out (ascending)\n - Application (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "workflow",
+            "checked_out",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Hide on Service Portal (ascending)\n - Class (descending)\n - Picture (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "hide_sp",
+            "sys_class_name",
+            "picture"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Start closed (descending)\n - Execution Plan (ascending)\n - Hide 'Add to Wish List' (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "start_closed",
+            "delivery_plan",
+            "no_wishlist_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order now (ascending)\n - Package (ascending)\n - Display price property (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_order_now",
+            "sys_package",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Model (ascending)\n - Hide on Service Portal (descending)\n - Delivery plan script (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "model",
+            "hide_sp",
+            "delivery_plan_script"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Start closed (descending)\n - Hide Delivery time (descending)\n - Created from item design (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "start_closed",
+            "no_delivery_time_v2",
+            "sc_ic_item_staging"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Model (ascending)\n - Hide on Service Portal (ascending)\n - Package (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "model",
+            "hide_sp",
+            "sys_package"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Classic Mobile Picture Type (ascending)\n - List Price (ascending)\n - Picture (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "mobile_picture_type",
+            "list_price",
+            "picture"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Price (descending)\n - Mandatory Attachment (descending)\n - Display price property (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "price",
+            "mandatory_attachment",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Fulfillment group (ascending)\n - Image (descending)\n - Visible elsewhere (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "group",
+            "image",
+            "visible_standalone"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Updated (descending)\n - Omit price in cart (ascending)\n - Template (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_on",
+            "omit_price",
+            "template"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Execution Plan (ascending)\n - Make the item non-conversational in VA (ascending)\n - Billable (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "delivery_plan",
+            "make_item_non_conversational",
+            "billable"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Expand help for all questions (ascending)\n - Short description (descending)\n - Hide Delivery time (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "show_variable_help_on_load",
+            "short_description",
+            "no_delivery_time_v2"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order now (ascending)\n - Classic Mobile Picture (ascending)\n - Availability (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_order_now",
+            "mobile_picture",
+            "availability"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order now (descending)\n - Hide 'Add to Cart' (descending)\n - Application (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_order_now",
+            "no_cart_v2",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No order now (descending)\n - Vendor (descending)\n - Recurring price (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_order_now",
+            "vendor",
+            "recurring_price"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Image (descending)\n - Update name (descending)\n - Owner (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "image",
+            "sys_update_name",
+            "owner"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (descending)\n - Type (descending)\n - Cart (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "type",
+            "custom_cart"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Created by (descending)\n - Delivery plan script (ascending)\n - Location (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_created_by",
+            "delivery_plan_script",
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Delivery time (ascending)\n - Version (descending)\n - Mandatory Attachment (descending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "delivery_time",
+            "version",
+            "mandatory_attachment"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Meta (descending)\n - Availability (ascending)\n - Application (descending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "meta",
+            "availability",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Expand help for all questions (descending)\n - No quantity (descending)\n - Vendor (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "show_variable_help_on_load",
+            "no_quantity",
+            "vendor"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Hide price (classic mobile listings) (ascending)\n - Classic Mobile Picture Type (ascending)\n - Hide 'Save as Draft' (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "mobile_hide_price",
+            "mobile_picture_type",
+            "no_save_as_draft"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Omit price in cart (ascending)\n - Preview link (descending)\n - Application (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "omit_price",
+            "preview",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Omit price in cart (descending)\n - Preview link (descending)\n - Billable (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "omit_price",
+            "preview",
+            "billable"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - State (ascending)\n - Image (descending)\n - Visible on Bundles (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "state",
+            "image",
+            "visible_bundle"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Ordered item link (descending)\n - Recurring price (descending)\n - Display price property (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "ordered_item_link",
+            "recurring_price",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Delivery time (ascending)\n - Display name (ascending)\n - Visible on Guides (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "delivery_time",
+            "sys_name",
+            "visible_guide"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Order (descending)\n - Associated template (ascending)\n - Mandatory Attachment (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "order",
+            "sc_template",
+            "mandatory_attachment"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No cart (descending)\n - Description (descending)\n - Classic Mobile Picture Type (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_cart",
+            "description",
+            "mobile_picture_type"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Classic Mobile Picture Type (descending)\n - Picture (ascending)\n - Category (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "mobile_picture_type",
+            "picture",
+            "category"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Start closed (ascending)\n - Fulfillment automation level (ascending)\n - Application (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "start_closed",
+            "fulfillment_automation_level",
+            "sys_scope"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Expand help for all questions (ascending)\n - Type (ascending)\n - Access Type (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "show_variable_help_on_load",
+            "type",
+            "access_type"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Recurring price frequency (ascending)\n - Preview link (ascending)\n - Location (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "recurring_frequency",
+            "preview",
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Preview link (descending)\n - Template (descending)\n - Classic Mobile Picture Type (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "preview",
+            "template",
+            "mobile_picture_type"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Model (ascending)\n - Hide on Service Portal (descending)\n - Owner (ascending)",
+        "sort_dirs": [
+            "asc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "model",
+            "hide_sp",
+            "owner"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No cart (descending)\n - Protection policy (descending)\n - Class (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "no_cart",
+            "sys_policy",
+            "sys_class_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Published version (ascending)\n - Hide on Service Portal (ascending)\n - Hide 'Save as Draft' (descending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "desc"
+        ],
+        "sort_fields": [
+            "sc_ic_version",
+            "hide_sp",
+            "no_save_as_draft"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Flow (descending)\n - Associated template (descending)\n - Display price property (descending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "desc"
+        ],
+        "sort_fields": [
+            "flow_designer_flow",
+            "sc_template",
+            "display_price_property"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Hide 'Add to Cart' (descending)\n - No proceed checkout (ascending)\n - Location (ascending)",
+        "sort_dirs": [
+            "desc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_cart_v2",
+            "no_proceed_checkout",
+            "location"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - No search (ascending)\n - Meta (ascending)\n - Hide 'Save as Draft' (ascending)",
+        "sort_dirs": [
+            "asc",
+            "asc",
+            "asc"
+        ],
+        "sort_fields": [
+            "no_search",
+            "meta",
+            "no_save_as_draft"
+        ]
+    },
+    {
+        "goal": "Sort the \"catalog items\" list by the following fields:\n - Updated (descending)\n - Preview link (descending)\n - Hide Quantity (ascending)",
+        "sort_dirs": [
+            "desc",
+            "desc",
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_on",
+            "preview",
+            "no_quantity_v2"
+        ]
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Installed (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "install_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Old status (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "old_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Invoice number (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "invoice_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Comments (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "comments"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Serial number (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "serial_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Reserved for (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "reserved_for"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Managed by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "managed_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Depreciation effective date (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "depreciation_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Configuration Item (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "ci"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Depreciation (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "depreciation"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Support group (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "support_group"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Eligible for refresh (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "eligible_for_refresh"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Asset tag (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "asset_tag"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Cost (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "cost"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Eligible for refresh (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "eligible_for_refresh"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - State (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "install_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Model component (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "model_component_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Supported by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "supported_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Old substatus (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "old_substatus"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Active transfer order (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "active_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Scheduled retirement (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "retirement_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Serial number (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "serial_number"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Depreciation effective date (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "depreciation_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Due in (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "due_in"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Assigned (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "assigned"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Installed (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "install_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Lease contract (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "lease_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Depreciated amount (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "depreciated_amount"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Ordered (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "order_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Support group (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "support_group"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Cost center (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "cost_center"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Updated (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Updated by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_updated_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Configuration Item (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "ci"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Model (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "model"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Owned by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "owned_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Stockroom (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "stockroom"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Lease contract (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "lease_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Checked in (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "checked_in"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Disposal reason (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "disposal_reason"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Residual value (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "residual"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Display name (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "display_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Display name (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "display_name"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Old substatus (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "old_substatus"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Ordered (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "order_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Order received (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "delivery_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Assigned to (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "assigned_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Residual date (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "residual_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Disposal reason (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "disposal_reason"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Department (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "department"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Salvage value (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "salvage_value"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Company (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Life Cycle Stage (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "life_cycle_stage"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Stockroom (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "stockroom"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Skip sync (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "skip_sync"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Acquisition method (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "acquisition_method"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Owned by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "owned_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Updates (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_mod_count"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Parent (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "parent"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Substate (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "substatus"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Warranty expiration (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "warranty_expiration"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Retired date (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "retired"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Justification (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "justification"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Cost center (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "cost_center"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Expenditure type (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "expenditure_type"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Purchased (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "purchase_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Model (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "model"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Model component (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "model_component_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Sys ID (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Active transfer order (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "active_to"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Domain Path (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Sys ID (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_id"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Skip sync (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "skip_sync"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Due (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "due"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Depreciated amount (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "depreciated_amount"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Checked out (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "checked_out"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Model category (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "model_category"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Expenditure type (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "expenditure_type"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Updated by (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_updated_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Tags (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_tags"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Work notes (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "work_notes"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Checked out (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "checked_out"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Supported by (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "supported_by"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Cost (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "cost"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Domain Path (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain_path"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Comments (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "comments"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Company (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "company"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Created (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "sys_created_on"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Residual date (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "residual_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Vendor (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "vendor"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Domain (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_domain"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Model category (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "model_category"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Request line (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "request_line"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Old status (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "old_status"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Scheduled retirement (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "retirement_date"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Life Cycle Stage (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "life_cycle_stage"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Resale price (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "resale_price"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Resale price (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "resale_price"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Tags (ascending)",
+        "sort_dirs": [
+            "asc"
+        ],
+        "sort_fields": [
+            "sys_tags"
+        ]
+    },
+    {
+        "goal": "Sort the \"hardware\" list by the following fields:\n - Due (descending)",
+        "sort_dirs": [
+            "desc"
+        ],
+        "sort_fields": [
+            "due"
+        ]
+    }
+]
